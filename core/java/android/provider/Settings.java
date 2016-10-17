@@ -6990,7 +6990,8 @@ public final class Settings {
             DOZE_ENABLED,
             DOZE_PULSE_ON_PICK_UP,
             DOZE_PULSE_ON_DOUBLE_TAP,
-            NFC_PAYMENT_DEFAULT_COMPONENT
+            NFC_PAYMENT_DEFAULT_COMPONENT,
+            STATUS_BAR_SHOW_BATTERY_PERCENT
         };
 
         /**
